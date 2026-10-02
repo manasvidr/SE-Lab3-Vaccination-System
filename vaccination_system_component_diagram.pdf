@@ -1,0 +1,68 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1279 >>
+stream
+BT /F2 18 Tf 50 800 Td (SE Lab 3 - Vaccination System Component Diagram) Tj ET
+50 650 140 65 re S
+BT /F2 9 Tf 60 685 Td (Citizen Portal) Tj ET
+220 650 140 65 re S
+BT /F2 9 Tf 230 685 Td (Appointment Mgmt) Tj ET
+390 650 140 65 re S
+BT /F2 9 Tf 400 685 Td (Vaccination Record) Tj ET
+90 500 140 65 re S
+BT /F2 9 Tf 100 535 Td (Certificate & QR) Tj ET
+330 500 140 65 re S
+BT /F2 9 Tf 340 535 Td (Auth & Access) Tj ET
+220 330 140 65 re S
+BT /F2 9 Tf 230 365 Td (Vaccination DB) Tj ET
+50 330 140 65 re S
+BT /F2 9 Tf 60 365 Td (Officer UI) Tj ET
+190 682 m 220 682 l S
+BT /F1 6 Tf 205 682 Td (Appointment API) Tj ET
+360 682 m 390 682 l S
+BT /F1 6 Tf 375 682 Td (Citizen Record API) Tj ET
+290 650 m 290 395 l S
+BT /F1 6 Tf 290 522 Td (Data Access) Tj ET
+120 650 m 140 565 l S
+BT /F1 6 Tf 130 608 Td (Certificate Request API) Tj ET
+460 650 m 410 565 l S
+BT /F1 6 Tf 435 608 Td (Auth Token) Tj ET
+190 362 m 220 360 l S
+BT /F1 6 Tf 205 361 Td (Officer Record API) Tj ET
+460 682 m 290 395 l S
+BT /F1 6 Tf 375 538 Td (Dose Booking / Status) Tj ET
+120 330 m 120 395 l S
+BT /F1 6 Tf 120 362 Td (Vaccination Entry) Tj ET
+BT /F1 11 Tf 50 250 Td (Architecture selected: Layered Architecture.) Tj ET
+BT /F1 11 Tf 50 231 Td (Continuation of Lab 1: Vaccination Cohort & Dose Scheduling System.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000001581 00000 n 
+0000001651 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1726
+%%EOF
