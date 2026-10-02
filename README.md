@@ -12,6 +12,3 @@ This Lab 3 submission continues the **SE Lab 1 - Vaccination Cohort & Dose Sched
 **Layered Architecture**
 
 The component model separates presentation-facing components, vaccination scheduling/record/certificate services, authentication and access control, and persistent vaccination data.
-
-## Lab 1 Continuity
-The model is based on Lab 1 concerns including citizen registration, vaccination-dose scheduling and interval validation, vaccination recording, QR certificate generation/verification, authentication/access control, and protection of citizen vaccination data.
